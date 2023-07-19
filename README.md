@@ -3,10 +3,10 @@
 * The dashboard includes metrics that quantify the speed and scale of the vaccination program on a daily basis.
 
 ## Resources used  
-**Tool:** Tableau 
-**Dataset Used:**  Our World in Data COVID vaccination dataset
-**YouTube Reference:** https://www.youtube.com/watch?v=g6cjhUhrhY8 
-                       https://www.youtube.com/watch?v=CnzbSERa7NM
+**Tool:** Tableau <br>
+**Dataset Used:**  Our World in Data COVID vaccination dataset <br>
+**YouTube References:** https://www.youtube.com/watch?v=g6cjhUhrhY8 
+                       <br> https://www.youtube.com/watch?v=CnzbSERa7NM
                        
 ## Key Metrics displayed in the dashboard
 *	Share of the population that has been partly or fully vaccinated.
