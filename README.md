@@ -1,9 +1,18 @@
-# Global-Vaccine-Tracker
+# Global Vaccine Tracker: Project Overview
+* The main goal of the dashboard is to provide information about vaccination rollouts on a global scale.
+* The dashboard includes metrics that quantify the speed and scale of the vaccination program on a daily basis.
 
-Visit This Link to access the entire interactive Dashboard:
-https://public.tableau.com/app/profile/sughosh.deshpande/viz/GlobalVaccineTracker_16753738920520/CovidVaccineTracker
-
-The Data Source was last updated on 10/25/2021
+## Resources used  
+**Tool:** Tableau 
+**Dataset Used:**  Our World in Data COVID vaccination dataset
+**YouTube Reference:** https://www.youtube.com/watch?v=g6cjhUhrhY8 
+                       https://www.youtube.com/watch?v=CnzbSERa7NM
+                       
+## Key Metrics displayed in the dashboard
+*	Share of the population that has been partly or fully vaccinated.
+*	Vaccine doses administered daily.
+*	boosters administered daily.
+*	GDP correlation with vaccination program performance.
 
 The Tableau dashboard image is uploaded as a png file:
 
