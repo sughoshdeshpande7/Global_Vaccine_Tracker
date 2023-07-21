@@ -1,9 +1,10 @@
 # Global Vaccine Tracker: Project Overview
+![Tableau Badge](https://img.shields.io/badge/Tableau-Data%20Viz-orange?logo=Tableau)
 * The main goal of the dashboard is to provide information about vaccination rollouts on a global scale.
 * The dashboard includes metrics that quantify the speed and scale of the vaccination program on a daily basis.
 
 ## Resources used  
-![Tableau Badge](https://img.shields.io/badge/Tableau-Data%20Viz-orange?logo=Tableau)
+
 
 **Dataset Used:**  Our World in Data COVID vaccination dataset <br>
 **YouTube References:** https://www.youtube.com/watch?v=g6cjhUhrhY8 
